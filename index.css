@@ -17,6 +17,7 @@
     z-index: 1;
     /* margin-bottom: 60px; */
     position: fixed;
+    float: inherit;
     top: 0;
 
 
